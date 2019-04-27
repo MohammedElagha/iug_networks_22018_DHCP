@@ -1,0 +1,7 @@
+enable
+config t
+ip dhcp pool (pool name)
+default-router (router IP address)
+network (network address) (subnet mask)
+exit
+ip dhcp excluded_address (from IP) (to IP)
